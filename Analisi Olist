@@ -1,0 +1,8 @@
+# Es.-FINALE-M6
+Esercizio finale Power BI
+Analisi svolta con l'ausilio di Power BI, dove, medinate un processo di ETL su Power Query editor, ho creato un report strutturato su 3 pagine che descrivono: 
+-nella prima, l'andamento degli ordini nel tempo per Stato;
+-nella seconda, i ricavi nel tempo per Stato;
+-nell'ultima, la distribuzione degli ordini per rating degli utenti.
+Tutte le pagine sono completamente interattive, dando la possibilità all'utente di filtrare i daiti in base alle proprie esigenze.
+E' inoltre possibile interagire tra le varie pagine mediante bottoni che portano alla pagina successia del report, o tornando alla prima tramite il tasto HOME.
